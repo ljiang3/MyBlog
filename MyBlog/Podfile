@@ -1,0 +1,20 @@
+
+
+target 'MyBlog' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+    use_frameworks!
+
+  # Pods for MyBlog
+    pod 'Parse'
+
+  target 'MyBlogTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'MyBlogUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
