@@ -11,7 +11,7 @@ Must-have features:
 2. Users can choose their photoes from Library and share<br/> 
 3. Users can take photo with Iphone camera and share<br/> 
 4. Users can capture for each post and show the time of published.<br/> 
-5. 
+5. Users can delete posts
 
 Nice-to-have features:
 1. Users can add locations to each post<br/> 
